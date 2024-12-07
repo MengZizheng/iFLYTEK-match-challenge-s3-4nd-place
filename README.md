@@ -4,6 +4,7 @@
 讯飞智聘是一款面向企业招聘全流程的智能化解决方案，运用科大讯飞的智能语音、自然语言理解和计算机视觉技术，帮助企业提升招聘效率、降低成本。特别是在校园招聘等场景，面对大量简历，如何快速筛选出最适合的候选人，并将其与合适岗位匹配，是招聘过程中亟待解决的难题。
 
 [赛题页面](https://challenge.xfyun.cn/topic/info?type=match-challenge-s3)
+
 [数据集下载](https://challenge.xfyun.cn/topic/info?type=match-challenge-s3&option=stsj)
 
 ## 2. 赛事任务
